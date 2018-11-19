@@ -1,0 +1,28 @@
+{
+  "name": "bat-server",
+  "version": "0.0.1",
+  "description": "Backend for BAT analysis app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatakancicek/BAT.git"
+  },
+  "keywords": [
+    "BAT",
+    "analysis",
+    "tesseract"
+  ],
+  "author": "Hüseyin Atakan Çiçek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatakancicek/BAT/issues"
+  },
+  "homepage": "https://github.com/hatakancicek/BAT#readme",
+  "dependencies": {
+    "file-type": "^10.5.0",
+    "tesseract.js": "^1.0.13"
+  }
+}
